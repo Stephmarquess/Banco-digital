@@ -1,4 +1,8 @@
-package edu.dio.desafio.banco;
+package edu.dio.desafio.banco.menu;
+
+import edu.dio.desafio.banco.conta.Conta;
+import edu.dio.desafio.banco.conta.ContaCorrente;
+import edu.dio.desafio.banco.conta.ContaPoupanca;
 
 import java.util.Scanner;
 

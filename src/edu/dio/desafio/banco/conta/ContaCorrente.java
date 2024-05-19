@@ -1,4 +1,4 @@
-package edu.dio.desafio.banco;
+package edu.dio.desafio.banco.conta;
 
 public class ContaCorrente extends Conta {
 
